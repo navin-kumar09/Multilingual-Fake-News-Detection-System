@@ -1,0 +1,9 @@
+transformers>=4.30.0
+datasets>=2.10.0
+torch>=2.0.0
+scikit-learn>=1.2.0
+langdetect>=1.0.9
+sacremoses>=0.1.1
+sentencepiece>=0.1.99
+pandas>=2.0.0
+imbalanced-learn>=0.10.0
